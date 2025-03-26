@@ -13,6 +13,7 @@ html {
 .fofimg {
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: -32px;
     display: block;
 }
 .papaya {
