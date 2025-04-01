@@ -4,7 +4,8 @@ html {
 }
 
 .homeContainer {
-    padding-top: 5%;
+    padding-top: 8%;
+    padding-bottom: 5%;
 }
 
 .navSpacer {
@@ -123,4 +124,18 @@ p {
     border-left: none;
     border-right: none;
     border-bottom: white solid 1px;
+}
+
+.rotate90 {
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.imageContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.image_2 {
+    padding-top: 5%;
 }
