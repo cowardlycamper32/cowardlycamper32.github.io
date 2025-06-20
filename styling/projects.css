@@ -1,0 +1,17 @@
+.projectsBox {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background: #FFF;
+    width: 20%;
+    max-height: 20%;
+}
+.projectContainer {
+    padding-top: 5%;
+    padding-bottom: 8% !important;
+}
+.projectTitle {
+    color: #000;
+}
+.projectContent {
+    color: #000;
+}
